@@ -1,0 +1,12 @@
+http://www.vogella.com/tutorials/Checkstyle/article.html
+
+Tow option :
+1. Install eclipse checkstyle plugin
+   > Right click on class 
+   > Check style
+   > Check code with checkstyle
+   
+2. Using maven plugin 
+ > declare a plugin in maven
+ > run : mvn clean verify
+ > It will create a file in target folder 
